@@ -85,12 +85,12 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=navneet2569&show_icons=true&locale=en&theme=radical" alt="navneet2569" height="165"/>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=navneet2569&show_icons=true&locale=en&layout=compact&theme=radical" alt="navneet2569" height="165"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=navneet2569&show_icons=true&locale=en&theme=radical" alt="" height="165"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=navneet2569&show_icons=true&locale=en&layout=compact&theme=radical" alt="" height="165"/>
 </p>
 
 <p align="center">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=navneet2569&theme=radical" alt="navneet2569" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=navneet2569&theme=radical" alt="" />
 </p>
 
 ---
