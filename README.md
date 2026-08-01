@@ -13,7 +13,6 @@
 <a href="https://linkedin.com/in/navneet-singh-8ba02226a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="navneet-singh-8ba02226a" height="30" width="40" /></a>
 <a href="https://twitter.com/nav__singh11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nav__singh11" height="30" width="40" /></a>
 <a href="https://instagram.com/_nav__singh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_nav__singh" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/nav2569" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="nav2569" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/nav_singh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="nav_singh" height="30" width="40" /></a>
 </p>
 
@@ -41,7 +40,6 @@
 <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"><img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/></a>
 <a href="https://nextjs.org/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/next-js.svg" alt="nextjs" width="40" height="40"/></a>
 <a href="https://redux.js.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/></a>
-<a href="https://axios-http.com/" target="_blank" rel="noreferrer"><img src="https://axios-http.com/assets/logo.svg" alt="axios" width="40" height="40"/></a>
 </p>
 
 ### 🗄️ Data & Messaging
