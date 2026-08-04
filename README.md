@@ -82,15 +82,30 @@
 - **[AI Kubernetes Agent](#)** — Autonomous agentic AI agent that diagnoses AKS failures (CrashLoopBackOff, OOMKilled, etc.) and recommends fixes, powered by a multi-model LLM reasoning layer behind a FastAPI dashboard.
 
 ---
-
 ### 📊 GitHub Stats
+
 <p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=navneet2569&show_icons=true&locale=en&theme=radical" alt="" height="165"/>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=navneet2569&show_icons=true&locale=en&layout=compact&theme=radical" alt="" height="165"/>
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&hide_border=true&rank_icon=github"
+    height="170"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical&hide_border=true"
+    height="170"
+  />
 </p>
 
 <p align="center">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=navneet2569&theme=radical" alt="" />
+  <img
+    src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=radical&hide_border=true"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=react-dark&hide_border=true"
+    width="95%"
+  />
 </p>
 
 ---
