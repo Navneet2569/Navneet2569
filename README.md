@@ -76,10 +76,22 @@
 
 ### 📌 Featured Projects
 
-- **[Expense Tracker Platform](#)** — Full-stack Spring Boot microservices platform with API Gateway, JWT/OAuth 2.0, React Native client, and an AI-powered FastAPI service for automated expense categorization (~92% accuracy). Deployed on Azure (AKS + App Service) via Azure DevOps CI/CD.
-- **[Real-Time Activity Tracker](#)** — Event-driven backend using Kafka producers/consumers streaming activity events at sub-200ms latency, sustaining 10k+ events/sec, deployed on Azure with Redis caching.
-- **[Multithreaded Web Server](#)** — HTTP/1.1 server built from scratch in core Java using sockets and a thread-pool executor, handling 500+ concurrent connections.
-- **[AI Kubernetes Agent](#)** — Autonomous agentic AI agent that diagnoses AKS failures (CrashLoopBackOff, OOMKilled, etc.) and recommends fixes, powered by a multi-model LLM reasoning layer behind a FastAPI dashboard.
+- **[Expense Tracker Platform](https://github.com/Navneet2569)**
+  - 🚀 Full-stack Spring Boot microservices platform featuring API Gateway, JWT/OAuth 2.0 authentication, a React Native mobile client, and an AI-powered FastAPI service for automated expense categorization (~92% accuracy).
+  - ☁️ Planned deployment on Azure (AKS + App Service) with Azure DevOps CI/CD pipelines.
+
+- **[Real-Time Activity Tracker](https://github.com/Navneet2569)**
+  - 🚀 Event-driven backend built using Apache Kafka producers and consumers for real-time activity streaming.
+  - ⚡ Designed to process 10,000+ events/sec with Redis caching and Azure deployment.
+
+- **[Multithreaded Web Server](https://github.com/Navneet2569/Multithreaded-Web-Server)**
+  - 🚀 HTTP/1.1 server built from scratch in Core Java using sockets and multithreading.
+  - 🧵 Progression from a single-threaded server to a multithreaded architecture, with Apache JMeter benchmarking for throughput, response time, and scalability analysis.
+  - 🔜 Thread Pool implementation and NIO-based server coming next.
+
+- **[AI Kubernetes Agent](https://github.com/Navneet2569)**
+  - 🚀 Autonomous Agentic AI application capable of diagnosing Kubernetes (AKS) failures such as CrashLoopBackOff, OOMKilled, ImagePullBackOff, and networking issues.
+  - 🤖 Powered by a multi-model LLM reasoning layer with a FastAPI backend and interactive dashboard.
 
 ---
 
